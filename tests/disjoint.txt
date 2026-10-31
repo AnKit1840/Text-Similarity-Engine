@@ -1,0 +1,4 @@
+Quantum computing leverages superposition and entanglement to perform calculations
+exponentially faster than classical machines for specific problem domains.
+Cryptographic protocols may need fundamental redesign once fault tolerant
+quantum processors become commercially viable.

@@ -1,0 +1,28 @@
+# Executables
+*.exe
+similarity_detector
+*.out
+*.app
+
+# Object files and build artifacts
+*.o
+*.obj
+obj/
+bin/
+-p/
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE and Editor settings
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
